@@ -1,18 +1,10 @@
 
 config.php
 data/config/config_global.php
-*.cache
-*.cache
-*.cache
-data/cache/contact/vi_9b2fdbffb5ff9af1f8f6581108f98eff_cee1a2823a09f12a86e1bc23b2ebe78e.cache
-data/cache/contact/vi_2025b8b7bf96a0628fb8f88ad0de7473_cee1a2823a09f12a86e1bc23b2ebe78e.cache
-data/cache/contact/vi_9b2fdbffb5ff9af1f8f6581108f98eff_cee1a2823a09f12a86e1bc23b2ebe78e.cache
-data/cache/contact/vi_block_contact_supportercee1a2823a09f12a86e1bc23b2ebe78e.cache
-data/cache/modules/vi_1e5d1ee772e5d25f25345fb8fbf7e166_cee1a2823a09f12a86e1bc23b2ebe78e.cache
-data/cache/modules/vi_8710aa8d6307a7ffe39a0073861c091f_cee1a2823a09f12a86e1bc23b2ebe78e.cache
-data/cache/page/vi_1b6c47dfa2c13212fc143d063888d66f_cee1a2823a09f12a86e1bc23b2ebe78e.cache
-data/cache/settings/vi_44c9516638480603f2f2eb2fd6226cfd_cee1a2823a09f12a86e1bc23b2ebe78e.cache
-data/cache/themes/vi_tivi_contact_cee1a2823a09f12a86e1bc23b2ebe78e.cache
-data/cache/users/vi_groups_list_cee1a2823a09f12a86e1bc23b2ebe78e.cache
-*.cache
+data/cache/contact/*.cache
+data/cache/modules/*.cache
+data/cache/page/*.cache
+data/cache/setting/*.cache
+data/cache/themes/*.cache
+data/cache/users/*.cache
 *.cache
