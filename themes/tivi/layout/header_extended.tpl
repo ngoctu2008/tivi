@@ -9,7 +9,7 @@
     				<div class="flex-col hide-for-medium flex-left">
     					<ul class="nav nav-left medium-nav-center nav-small  nav-divided">
     						<li class="html custom html_topbar_left">
-    							<p class="mona_html showroom">Thành phố Vinh, Nghệ An</p>
+    							<p class="mona_html showroom">Số 10, Ngõ 202, Đường Ngô Đức Kế, Tp. Vinh, Nghệ An</p>
     						</li>
     						<li class="html custom html_topbar_right">
     							<p class="mona_html email"><a href="mailto:dientuducsang@gmail.com">dientuducsang@gmail.com</a>
@@ -77,10 +77,10 @@
     					<ul class="header-nav header-nav-main nav nav-right  nav-uppercase">
     						<li class="html custom html_top_right_text">
     							<p class="time"><span style="color:#232323; font-size: 16px;"><strong>Giờ làm việc:</strong></span>
-    								<br> Thứ 2 - thứ 6 (8h - 18h)</p>
+    								<br> Thứ 2 - Chủ nhật (7h - 21h)</p>
     						</li>
     						<li class="html custom html_nav_position_text_top">
-    							<p class="hotline"><span style="color:#232323; font-size: 16px;"><strong>Gọi ngay:</strong></span>
+    							<p class="hotline"><span style="color:#232323; font-size: 16px;"><strong>Hotline:</strong></span>
     								<br>
     								<span class="number"><a href="tel:0982155246">0982 155 246</a></span>
     							</p>
