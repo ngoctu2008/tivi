@@ -4,7 +4,7 @@
     <div class="well">{CONTENT.bodytext}</div>
     <!-- END: bodytext -->
     <div>
-        <div class="col-sm-12 col-md-14">
+        <div class="col-sm-12 col-md-12">
             <!-- BEGIN: dep -->
             <div class="panel panel-default">
                 <div class="panel-heading">
@@ -113,7 +113,7 @@
             </div>
             <!-- END: dep -->
         </div>
-        <div class="col-sm-12 col-md-10">
+        <div class="col-sm-12 col-md-12">
             <div class="panel panel-primary">
                 <div class="panel-heading">{GLANG.feedback}</div>
                 <div class="panel-body loadContactForm">{FORM}</div>
