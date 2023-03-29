@@ -1,3 +1,6 @@
 
 config.php
 data/config/config_global.php
+*.cache
+*.cache
+*.cache

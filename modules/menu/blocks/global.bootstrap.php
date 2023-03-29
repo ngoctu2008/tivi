@@ -122,7 +122,7 @@ if (!nv_function_exists('nv_menu_bootstrap')) {
                 $classcurrent = [];
                 $submenu_active = [];
                 if (isset($array_menu[$id])) {
-                    $classcurrent[] = 'menu-item-has-children has-dropdown';
+                    $classcurrent[] = 'dropdown'; //$classcurrent[] = 'menu-item-has-children has-dropdown';
                     $submenu = nv_get_bootstrap_submenu($id, $array_menu, $submenu_active, $block_theme);
                     $xtpl->assign('SUB', $submenu);
                     $xtpl->parse('main.top_menu.sub');

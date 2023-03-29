@@ -19,5 +19,6 @@
             "logo": "{NV_MY_DOMAIN}{LOGO_SRC}"
         }
         </script>
+        <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Roboto:regular,700%7CRoboto:regular,regular%7CRoboto:regular,700%7CDancing+Script" media="all"/>
     </head>
     <body class="page-template page-template-page-blank page-template-page-blank-php page page-id-18 woocommerce-js lightbox nav-dropdown-has-arrow">
