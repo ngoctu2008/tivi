@@ -18,13 +18,13 @@
 			</div>
 		</div>
 		<!-- END: cats -->
-		<div class="form-group">
+		<div class="form-group hidden">
 			<div class="input-group">
 				<span class="input-group-addon">
 					<em class="fa fa-file-text fa-lg fa-horizon">
 					</em>
 				</span>
-				<input type="text" maxlength="255" class="form-control required" value="{CONTENT.ftitle}" name="ftitle" placeholder="{LANG.title}" data-pattern="/^(.){3,}$/" onkeypress="nv_validErrorHidden(this);" data-mess="{LANG.error_title}" />
+				<input type="text" maxlength="255" class="form-control required" value="Liên hệ" name="ftitle" placeholder="{LANG.title}" data-pattern="/^(.){3,}$/" onkeypress="nv_validErrorHidden(this);" data-mess="{LANG.error_title}" />
 			</div>
 		</div>
 		<!-- BEGIN: iguest -->
