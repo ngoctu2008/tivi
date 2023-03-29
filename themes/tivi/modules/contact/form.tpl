@@ -2,13 +2,13 @@
 <div class="nv-fullbg">
     <form method="post" action="{ACTION_FILE}" onsubmit="return nv_validForm(this);" novalidate<!-- BEGIN: recaptcha3 --> data-recaptcha3="1"<!-- END: recaptcha3 -->>
 		<!-- BEGIN: cats -->
-		<div class="form-group">
+		<div class="form-group hidden">
 			<div class="input-group">
 				<span class="input-group-addon">
 					<em class="fa fa-folder-open fa-lg fa-horizon">
 					</em>
 				</span>
-				<select class="form-control" name="fcat">
+				<select class="form-control" name="fcat" >
 					<!-- BEGIN: select_option_loop -->
 					<option value="{SELECTVALUE}">
 						{SELECTNAME}
