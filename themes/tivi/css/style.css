@@ -735,6 +735,7 @@ h6 {
 
 .title {
     font-size: 22px;
+    color: #ff5252;
 }
 
 .hometext {
@@ -1556,7 +1557,7 @@ a.btn {
     color: #fff;
     background-color: #428bca;
 }
- 
+
 
 /* Block copyright*/
 
@@ -2346,7 +2347,7 @@ p.name.product-title a{
 }
 /*---style product price---*/
 .price-wrapper{
-    display: table; 
+    display: table;
 }
 .price-wrapper .price{
     height: 1.3em;
@@ -2516,12 +2517,12 @@ ul.product_list_widget {
 .header-bottom .nav > li > a {
     height: 70px;
 }
-.header-bottom .nav > li:hover > a:after, 
-.header-bottom .nav > li.current-menu-item > a:after, 
-.header-bottom .nav > li.current-menu-parent > a:after, 
-.header-bottom .nav > li.current-post-parent > a:after, 
-.header-bottom .nav > li.current-product-parent > a:after, 
-.header-bottom .nav > li.current_page_parent > a:after, 
+.header-bottom .nav > li:hover > a:after,
+.header-bottom .nav > li.current-menu-item > a:after,
+.header-bottom .nav > li.current-menu-parent > a:after,
+.header-bottom .nav > li.current-post-parent > a:after,
+.header-bottom .nav > li.current-product-parent > a:after,
+.header-bottom .nav > li.current_page_parent > a:after,
 .header-bottom .nav > li.current-product-ancestor > a:after {
     background: url(http://mauweb.monamedia.net/cardinal/wp-content/uploads/2019/01/hover-circle.png) no-repeat !important;
     bottom: -19px;
@@ -2835,7 +2836,7 @@ li.tab.active.has-icon a {
 .mona_sidebar_footer ul {
     margin: 0;
 }
-.mona_sidebar_footer ul.menu>li+li, 
+.mona_sidebar_footer ul.menu>li+li,
 .mona_sidebar_footer .widget>ul>li+li {
 		border-top: 0px dashed rgba(238, 238, 238, 0.3);
 }
@@ -2925,24 +2926,24 @@ li.tab.active.has-icon a {
 @media (min-width: 1281px) {
 	.sec_slide h3 {											/* Slider */
 		line-height: 50px;
-	}  
+	}
 }
 /*-----style tablet mode-----*/
 @media screen and (max-width: 849px){
-	
+
 	.sec_slide h3 {											/* Slider */
 		line-height: 40px;
 	}
 	.accordion .toggle {
     	display: none;
-	} 
+	}
 }
 /*---end style mobile mode---*/
 /*-----style mobile mode-----*/
 @media screen and (max-width: 549px){
 	.sec_slide h3 {											/* Slider */
 		line-height: 30px;
-	} 
+	}
 	.accordion .toggle {
     	display: none;
 	}
