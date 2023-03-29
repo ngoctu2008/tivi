@@ -11,10 +11,6 @@
     						<li class="html custom html_topbar_left">
     							<p class="mona_html showroom">Số 10, Ngõ 202, Đường Ngô Đức Kế, Tp. Vinh, Nghệ An</p>
     						</li>
-    						<li class="html custom html_topbar_right">
-    							<p class="mona_html email"><a href="mailto:dientuducsang@gmail.com">dientuducsang@gmail.com</a>
-    							</p>
-    						</li>
     					</ul>
     				</div>
     				<!-- flex-col left -->
@@ -30,7 +26,6 @@
     						<li class="html header-social-icons ml-0">
     							<div class="social-icons follow-icons ">
                                     <a href="#" target="_blank" data-label="Facebook" rel="noopener noreferrer nofollow" class="icon plain facebook tooltip tooltipstered"><i class="icon-facebook"></i></a>
-                                    <a href="#" target="_blank" rel="noopener noreferrer nofollow" data-label="Instagram" class="icon plain  instagram tooltip tooltipstered"><i class="icon-instagram"></i></a>
                                     <a href="#" target="_blank" data-label="Youtube" rel="noopener noreferrer nofollow" class="icon plain youtube tooltip tooltipstered"><i class="icon-youtube"></i></a>
     							</div>
     						</li>
