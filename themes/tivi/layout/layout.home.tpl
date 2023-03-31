@@ -5,7 +5,7 @@
 <div class="bg_242 slide_home">
 [SLIDE]
 </div>
-[TOP] 
+[TOP]
 [FOOTER]
 
 {FILE "footer_extended.tpl"}

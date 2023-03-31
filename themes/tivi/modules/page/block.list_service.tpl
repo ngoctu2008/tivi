@@ -48,6 +48,7 @@
 </section>
 
 
+<!-- Block Tiêu chí hoạt động -->
 
 <section class="section sec_target" id="section_1103015872">
     <div class="bg section-bg fill bg-fill  bg-loaded">
