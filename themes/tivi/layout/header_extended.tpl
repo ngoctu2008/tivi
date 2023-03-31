@@ -143,12 +143,10 @@
     			</div>
     		</div>
     		<!-- .header-bottom -->
+            <div style="height: 500px; touch-action: pan-y;">
+            [SLIDE]
+            </div>
 
-    		<div class="header-bg-container fill">
-    			<div class="header-bg-image fill"></div>
-    			<div class="header-bg-color fill"></div>
-    		</div>
-    		<!-- .header-bg-container -->
     	</div>
     	<!-- header-wrapper-->
     </header>

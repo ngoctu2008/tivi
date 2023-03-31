@@ -2,26 +2,26 @@
 <plan>
   <id>1</id>
   <lang></lang>
-  <title>Mid-page ad block</title>
-  <form>sequential</form>
-  <width>575</width>
-  <height>72</height>
+  <title>Slides</title>
+  <form>random_one</form>
+  <width>1600</width>
+  <height>500</height>
   <banners>
     <banners_item>
       <id>1</id>
-      <title>Mid-page advertisement</title>
+      <title>Slide 1</title>
       <clid>1</clid>
-      <file_name>webnhanh.jpg</file_name>
+      <file_name>banner-1_1.png</file_name>
       <imageforswf></imageforswf>
       <file_ext>png</file_ext>
-      <file_mime>image/jpeg</file_mime>
-      <file_width>575</file_width>
-      <file_height>72</file_height>
+      <file_mime>image/png</file_mime>
+      <file_width>1600</file_width>
+      <file_height>420</file_height>
       <file_alt></file_alt>
-      <file_click>http://webnhanh.vn</file_click>
+      <file_click></file_click>
       <target>_blank</target>
       <bannerhtml></bannerhtml>
-      <publ_time>1620048540</publ_time>
+      <publ_time>1679835660</publ_time>
       <exp_time>0</exp_time>
     </banners_item>
   </banners>
