@@ -1,6 +1,5 @@
 <!-- BEGIN: main -->
 <section class="section sec_service_new white" id="section_682069308">
-    <div class="bg section-bg fill bg-fill  bg-loaded"> </div> <!-- .section-bg -->
     <div class="section-content relative">
         <div class="gap-element" style="display:block; height:auto; padding-top:60px"></div>
         <div class="row" id="row-2128140507">

@@ -1755,7 +1755,7 @@ a.btn {
 .slide_home .nv-block-banners img {
     max-height: 500px;
     width: -webkit-fill-available;
-    max-height: 400px;    
+    max-height: 400px;
 }
 
 .nv-block-rss li {
@@ -2610,7 +2610,7 @@ ul.product_list_widget {
 
 /*---------content-----------*/
 .sec_service_new .box-blog-post h5.post-title.is-large {
-    margin-top: 7em;
+    margin-top: 6em;
     transition: .5s;
 	font-size: 1.3em;
     -moz-transition: .5s;
