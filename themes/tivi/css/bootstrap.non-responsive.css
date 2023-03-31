@@ -6206,7 +6206,7 @@ body.boxed .is-sticky-section {
 .grid-col .box:not(.box-shade):not(.box-overlay):not(.box-badge) .box-text {
     background-color: rgba(255, 255, 255, 0.95);
     position: absolute;
-    bottom: 0;
+    bottom: 10px;
     padding-left: 1.5em;
     padding-right: 1.5em
 }
