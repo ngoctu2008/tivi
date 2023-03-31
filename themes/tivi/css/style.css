@@ -2610,7 +2610,7 @@ ul.product_list_widget {
 
 /*---------content-----------*/
 .sec_service_new .box-blog-post h5.post-title.is-large {
-    margin-top: 6em;
+    margin-top: 4.5em;
     transition: .5s;
 	font-size: 1.3em;
     -moz-transition: .5s;
@@ -2618,7 +2618,7 @@ ul.product_list_widget {
     -o-transition: .5s;
 }
 .sec_service_new .box-blog-post:hover h5.post-title.is-large {
-    margin-top: 5em;
+    margin-top: .5em;
 }
 .sec_service_new .box-blog-post:hover .box-text.text-center {
 	background: rgba(5, 5, 5, 0.49);
