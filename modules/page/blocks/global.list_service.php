@@ -67,6 +67,8 @@ if (!nv_function_exists('nv_list_service')) {
         global $nv_Cache, $global_config, $site_mods, $db;
         $module = $block_config['module'];
 
+        $template = NV_BASE_SITEURL . 'themes/' . $global_config['module_theme'] . '/images/icons/';
+
         $module_upload = 'page';
 
         if (!isset($site_mods[$module])) {
@@ -136,6 +138,7 @@ if (!nv_function_exists('nv_list_service')) {
                 $xtpl->assign('ROW', $l);
                 $xtpl->parse('main.loop');
             }
+            $xtpl->assign('TEMPLATE', $template);
 
             $xtpl->parse('main');
 

@@ -68,7 +68,7 @@
                         <div class="icon-box-img" style="width: 60px">
                             <div class="icon">
                                 <div class="icon-inner">
-                                    <img width="60" height="60" src="http://mauweb.monamedia.net/cardinal/wp-content/uploads/2019/01/time-left.png" class="attachment-medium size-medium" alt="">
+                                    <img width="60" height="60" src="{TEMPLATE}/time-left.png" class="attachment-medium size-medium" alt="">
                                 </div>
                             </div>
                         </div>
@@ -84,7 +84,7 @@
                         <div class="icon-box-img" style="width: 60px">
                             <div class="icon">
                                 <div class="icon-inner">
-                                    <img width="60" height="60" src="http://mauweb.monamedia.net/cardinal/wp-content/uploads/2019/01/repairing-service.png" class="attachment-medium size-medium" alt="">
+                                    <img width="60" height="60" src="{TEMPLATE}/repairing-service.png" class="attachment-medium size-medium" alt="">
                                 </div>
                             </div>
                         </div>
@@ -100,7 +100,7 @@
                         <div class="icon-box-img" style="width: 60px">
                             <div class="icon">
                                 <div class="icon-inner">
-                                    <img width="60" height="60" src="http://mauweb.monamedia.net/cardinal/wp-content/uploads/2019/01/shopping-support-online.png" class="attachment-medium size-medium" alt="">
+                                    <img width="60" height="60" src="{TEMPLATE}/shopping-support-online.png" class="attachment-medium size-medium" alt="">
                                 </div>
                             </div>
                         </div>
@@ -118,7 +118,7 @@
                         <div class="icon-box-img" style="width: 60px">
                             <div class="icon">
                                 <div class="icon-inner">
-                                    <img width="60" height="60" src="http://mauweb.monamedia.net/cardinal/wp-content/uploads/2019/01/money-bag-with-dollar-symbol.png" class="attachment-medium size-medium" alt="">
+                                    <img width="60" height="60" src="{TEMPLATE}/money-bag-with-dollar-symbol.png" class="attachment-medium size-medium" alt="">
                                 </div>
                             </div>
                         </div>
@@ -134,7 +134,7 @@
                         <div class="icon-box-img" style="width: 60px">
                             <div class="icon">
                                 <div class="icon-inner">
-                                    <img width="60" height="60" src="http://mauweb.monamedia.net/cardinal/wp-content/uploads/2019/01/hand.png" class="attachment-medium size-medium" alt="">
+                                    <img width="60" height="60" src="{TEMPLATE}/hand.png" class="attachment-medium size-medium" alt="">
                                 </div>
                             </div>
                         </div>
@@ -150,7 +150,7 @@
                         <div class="icon-box-img" style="width: 60px">
                             <div class="icon">
                                 <div class="icon-inner">
-                                    <img width="64" height="64" src="http://mauweb.monamedia.net/cardinal/wp-content/uploads/2019/01/shield.png" class="attachment-medium size-medium" alt="">
+                                    <img width="64" height="64" src="{TEMPLATE}/shield.png" class="attachment-medium size-medium" alt="">
                                 </div>
                             </div>
                         </div>
