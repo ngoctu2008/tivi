@@ -143,7 +143,7 @@
     			</div>
     		</div>
     		<!-- .header-bottom -->
-            <div style="height: 500px; touch-action: pan-y;">
+            <div style="max-height: 500px; touch-action: pan-y;">
             [SLIDE]
             </div>
 
