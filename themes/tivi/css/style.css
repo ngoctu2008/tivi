@@ -889,7 +889,7 @@ a.btn {
 }
 
 #header .right-ads > .nv-block-banners:last-child {
-    margin-bottom: 0;
+    margin-bottom: 0 !important;
 }
 
 /* breadcrumb */
@@ -1744,13 +1744,18 @@ a.btn {
 
 .nv-block-banners {
     position: relative;
-    margin-bottom: 10px;
+    /* margin-bottom: 10px; */
     text-align: center;
 }
 
 .nv-block-banners img {
     max-width: 100%;
     height: auto;
+}
+.slide_home .nv-block-banners img {
+    max-height: 500px;
+    width: -webkit-fill-available;
+    max-height: 400px;    
 }
 
 .nv-block-rss li {

@@ -1,6 +1,10 @@
 <!-- BEGIN: main -->
 {FILE "header_only.tpl"}
 {FILE "header_extended.tpl"}
+
+<div class="bg_242 slide_home">
+[SLIDE]
+</div>
 <main id="main" class="">
 	<div id="content" role="main" class="content-area">
 		<section class="section sec_about bg_242">
