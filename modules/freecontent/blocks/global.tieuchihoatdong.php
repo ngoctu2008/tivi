@@ -164,9 +164,7 @@ if (!nv_function_exists('nv_block_criteria')) {
                         $xtpl->parse('main.loop.image_only');
                     }
                 }
-                if ($i % 3 == 0) {
-                    $xtpl->parse('main.loop.row_break');
-                }
+
                 $xtpl->parse('main.loop');
             }
 

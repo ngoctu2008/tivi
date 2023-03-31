@@ -3,7 +3,7 @@
     <div class="bg section-bg fill bg-fill bg-loaded">
     </div><!-- .section-bg -->
     <div class="section-content relative">
-        <div class="gap-element" style="display:block; height:auto; padding-top:60px"></div>
+        <div class="gap-element" style="display:block; height:auto; padding-top:30px"></div>
         <div class="row" id="row-1255242638">
             <div class="col small-12 large-12">
                 <div class="col-inner text-center">
@@ -13,7 +13,7 @@
         </div>
         <div class="row">
 			<!-- BEGIN: loop -->
-            <div class="col medium-4 small-12 large-4" data-animate="fadeInDown" data-animated="true">
+            <div class="col medium-4 small-12 large-2" data-animate="fadeInDown" data-animated="true">
                 <div class="col-inner">
                     <div class="icon-box featured-box icon-box-center text-center">
                         <div class="icon-box-img" style="width: 60px">
@@ -29,10 +29,7 @@
                     </div>
                 </div>
             </div>
-			<!-- BEGIN: row_break -->
-			</div>
-			<div class="row">
-			<!-- END: row_break -->
+			
 			<!-- END: loop -->
         </div>
         <div class="gap-element" style="display:block; height:auto; padding-top:30px"></div>
