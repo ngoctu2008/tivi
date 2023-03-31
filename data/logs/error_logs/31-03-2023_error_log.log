@@ -1,1 +1,4 @@
 [Fri, 31 Mar 2023 22:36:11 +0700] [tivi.my] [127.0.0.1] [Warning(2): exif_read_data(banner-1.png): File not supported] [FILE: /vendor/vinades/nukeviet/Files/Upload.php] [LINE: 1122]
+[Fri, 31 Mar 2023 22:51:13 +0700] [tivi.my] [127.0.0.1] [Warning(2): imagedestroy() expects parameter 1 to be resource, null given] [FILE: /vendor/vinades/nukeviet/Files/Image.php] [LINE: 1106]
+[Fri, 31 Mar 2023 22:51:13 +0700] [tivi.my] [127.0.0.1] [Warning(2): imagedestroy() expects parameter 1 to be resource, null given] [FILE: /vendor/vinades/nukeviet/Files/Image.php] [LINE: 1120]
+[Fri, 31 Mar 2023 22:51:13 +0700] [tivi.my] [127.0.0.1] [Warning(2): imagedestroy(): supplied resource is not a valid Image resource] [FILE: /vendor/vinades/nukeviet/Files/Image.php] [LINE: 1123]
