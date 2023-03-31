@@ -15,7 +15,7 @@
                                     <div class="box has-hover has-hover box-text-bottom">
                                         <div class="box-image" style="width:30%;">
                                             <div class="">
-                                                <img width="300px" height="300px" src="http://mauweb.monamedia.net/cardinal/wp-content/uploads/2019/01/customer-3.png" class="attachment-original size-original" alt="">
+                                                <img width="300px" height="300px" src="{TEMPLATE}/images/customer-3.png" class="attachment-original size-original" alt="">
                                             </div>
                                         </div><!-- box-image -->
                                         <div class="box-text text-center">
@@ -37,7 +37,7 @@
                                     <div class="box has-hover has-hover box-text-bottom">
                                         <div class="box-image" style="width:30%;">
                                             <div class="">
-                                                <img width="300px" height="300px" src="http://mauweb.monamedia.net/cardinal/wp-content/uploads/2019/01/customer-2.png" class="attachment-original size-original" alt="">
+                                                <img width="300px" height="300px" src="{TEMPLATE}/images/customer-2.png" class="attachment-original size-original" alt="">
                                             </div>
                                         </div><!-- box-image -->
                                         <div class="box-text text-center">
@@ -59,7 +59,7 @@
                                     <div class="box has-hover has-hover box-text-bottom">
                                         <div class="box-image" style="width:30%;">
                                             <div class="">
-                                                <img width="300px" height="300px" src="http://mauweb.monamedia.net/cardinal/wp-content/uploads/2019/01/customer-4.png" class="attachment-original size-original" alt="">
+                                                <img width="300px" height="300px" src="{TEMPLATE}/images/customer-4.png" class="attachment-original size-original" alt="">
                                             </div>
                                         </div><!-- box-image -->
                                         <div class="box-text text-center">

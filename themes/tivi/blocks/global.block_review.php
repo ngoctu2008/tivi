@@ -24,6 +24,8 @@ if (!nv_function_exists('nv_block_review')) {
     {
         global $global_config, $lang_global, $language_array;
 
+        $template = NV_BASE_SITEURL . 'themes/' . $global_config['module_theme'];
+
         if (file_exists(NV_ROOTDIR . '/themes/' . $global_config['module_theme'] . '/blocks/global.block_review.tpl')) {
             $block_theme = $global_config['module_theme'];
         } elseif (file_exists(NV_ROOTDIR . '/themes/' . $global_config['site_theme'] . '/blocks/global.block_review.tpl')) {
@@ -35,6 +37,8 @@ if (!nv_function_exists('nv_block_review')) {
         $xtpl = new XTemplate('global.block_review.tpl', NV_ROOTDIR . '/themes/' . $block_theme . '/blocks');
         $xtpl->assign('NV_BASE_SITEURL', NV_BASE_SITEURL);
         $xtpl->assign('BLOCK_THEME', $block_theme);
+        $xtpl->assign('TEMPLATE', $template);
+
 
         $xtpl->parse('main');
 
