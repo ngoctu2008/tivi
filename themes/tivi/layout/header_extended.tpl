@@ -1,4 +1,4 @@
-<div id="wrapper">
+<div id="wrapper col-md-24">
     <noscript>
         <div class="alert alert-danger">{LANG.nojs}</div>
     </noscript>

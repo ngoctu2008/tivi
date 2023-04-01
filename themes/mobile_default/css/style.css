@@ -635,13 +635,13 @@ html {
 
 body {
     margin: 0;
-    padding: 48px 0 40px 0;
+    /* padding: 48px 0 40px 0; */
     color: #333;
     font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
     font-size: 14px;
     font-weight: 400;
     line-height: 1.42857;
-    background: #ddd url(../images/bg.png) repeat top left;
+    /* background: #ddd url(../images/bg.png) repeat top left; */
 }
 
 a,
@@ -790,27 +790,8 @@ header.first-child {
 header.header-up {
     top: -50px;
 }
-
-#header {
-    min-height: 47px;
-    background-image: linear-gradient(to bottom,
-            rgba(0, 0, 0, 0) 0,
-            rgba(0, 0, 0, 0.2) 100%);
-    border-bottom: 1px solid #205fa0;
-}
-
-#header .logo {
-    position: absolute;
-    top: 0;
-    left: 10px;
-    height: 48px;
-    line-height: 48px;
-}
-
-#header .logo img,
-#header .logo object {
-    max-height: 45px;
-    width: auto;
+#logo {
+    width: 200px;    
 }
 
 #header .site-buttons {

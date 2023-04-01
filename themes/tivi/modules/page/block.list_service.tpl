@@ -1,13 +1,13 @@
 <!-- BEGIN: main -->
 <section class="section sec_service_new white" id="section_682069308">
     <div class="section-content relative">
-        <div class="gap-element" style="display:block; height:auto; padding-top:60px"></div>
+        <div class="gap-element" style="display:block; height:auto; padding-top:30px"></div>
         <div class="row" id="row-2128140507">
             <div class="col small-12 large-12">
                 <div class="col-inner text-center">
                     <h2>DỊCH VỤ CỦA CHÚNG TÔI</h2>
                     <div class="gap-element" style="display:block; height:auto; padding-top:30px"></div>
-                    <div class="row large-columns-5 medium-columns-1 small-columns-1 row-small">
+                    <div class="row large-columns-5 medium-columns-2 small-columns-2 row-small">
 						<!-- BEGIN: loop -->
                         <div class="col post-item">
                             <div class="col-inner">
@@ -25,7 +25,7 @@
                                             <div class="box-text-inner blog-post-inner">
                                                 <h5 class="post-title is-large ">{ROW.title_clean60}</h5>
                                                 <div class="is-divider"></div>
-                                                <p class="from_the_blog_excerpt ">{ROW.description}</p>
+                                                <!-- <p class="from_the_blog_excerpt ">{ROW.description}</p> -->
                                             </div>
                                         </div>
                                     </div>

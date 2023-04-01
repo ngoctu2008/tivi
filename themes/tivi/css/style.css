@@ -2530,7 +2530,7 @@ ul.product_list_widget {
 .header-bottom .nav > li.current-product-parent > a:after,
 .header-bottom .nav > li.current_page_parent > a:after,
 .header-bottom .nav > li.current-product-ancestor > a:after {
-    background: url(http://mauweb.monamedia.net/cardinal/wp-content/uploads/2019/01/hover-circle.png) no-repeat !important;
+    background: url("../images/hover-circle.png") no-repeat !important;
     bottom: -19px;
     content: "";
     display: block;
@@ -2718,7 +2718,7 @@ li.tab.active.has-icon a {
 	left: 3px;
 }
 .sec_special .icon-box {
-	background-image: url('http://localhost/cardinal/wp-content/uploads/2019/01/stat-counter.png');
+	background-image: url('../images/stat-counter.png');
 	background-repeat: no-repeat;
 	background-position: center bottom 80px;
 	padding-top: 40px;
@@ -2794,7 +2794,7 @@ li.tab.active.has-icon a {
 
 /*---------Top footer-----------*/
 .sec_top_footer {
-	background-image: url('http://localhost/cardinal/wp-content/uploads/2019/01/footer-bg.jpg');
+	background-image: url('../images/footer-bg.jpg');
 	background-repeat: repeat-x;
 	background-color: #1D1C1C;
 	background-position: 10px 0px;

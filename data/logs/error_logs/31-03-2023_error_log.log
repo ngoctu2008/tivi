@@ -1,4 +1,0 @@
-[Sat, 01 Apr 2023 00:37:45 +0700] [tivi.my] [127.0.0.1] [Warning(2): imagedestroy() expects parameter 1 to be resource, null given] [FILE: /vendor/vinades/nukeviet/Files/Image.php] [LINE: 1120]
-[Sat, 01 Apr 2023 00:37:45 +0700] [tivi.my] [127.0.0.1] [Warning(2): imagedestroy() expects parameter 1 to be resource, null given] [FILE: /vendor/vinades/nukeviet/Files/Image.php] [LINE: 1106]
-[Sat, 01 Apr 2023 00:37:45 +0700] [tivi.my] [127.0.0.1] [Warning(2): imagedestroy(): supplied resource is not a valid Image resource] [FILE: /vendor/vinades/nukeviet/Files/Image.php] [LINE: 1123]
-[Sat, 01 Apr 2023 00:38:03 +0700] [tivi.my] [127.0.0.1] [Warning(2): exif_read_data(hand.png): File not supported] [FILE: /vendor/vinades/nukeviet/Files/Upload.php] [LINE: 1122]
