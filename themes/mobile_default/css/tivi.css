@@ -52,3 +52,12 @@ html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:1
         padding-top: 500px;
     }
 }
+
+.header-bottom {
+    background-color: #000000;
+    min-height: 70px;
+    border-bottom: solid 3px #ff5252;
+    z-index: 9;
+    position: relative;
+    align-items: center;
+}
