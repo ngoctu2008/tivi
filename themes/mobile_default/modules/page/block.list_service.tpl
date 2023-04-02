@@ -6,7 +6,6 @@
             <div class="col small-12 large-12">
                 <div class="col-inner text-center">
                     <h2>DỊCH VỤ CỦA CHÚNG TÔI</h2>
-                    <div class="gap-element" style="display:block; height:auto; padding-top:30px"></div>
                     <div class="row large-columns-5 medium-columns-2 small-columns-2 row-small">
 						<!-- BEGIN: loop -->
                         <div class="col post-item">
@@ -37,7 +36,6 @@
                 </div>
             </div>
         </div>
-        <div class="gap-element" style="display:block; height:auto; padding-top:30px"></div>
     </div><!-- .section-content -->
     <style scope="scope">
         #section_682069308 {

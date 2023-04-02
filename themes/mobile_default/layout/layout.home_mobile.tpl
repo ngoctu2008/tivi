@@ -1,8 +1,6 @@
 <!-- BEGIN: main -->
 {FILE "header_only.tpl"}
 {FILE "header_extended.tpl"}
-
-
 [TOP]
 [FOOTER]
 
