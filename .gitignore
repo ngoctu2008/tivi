@@ -7,4 +7,6 @@ data/cache/page/*.cache
 data/cache/setting/*.cache
 data/cache/themes/*.cache
 data/cache/users/*.cache
+data/logs/
+data/tmp/
 *.cache
