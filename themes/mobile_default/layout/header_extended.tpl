@@ -26,7 +26,6 @@
             		</div>
                     <div class="flex-col show-for-medium flex-right">
                         [MENU_SITE]
-
                         <ul class="mobile-nav nav nav-right "> </ul>
                     </div>
 
