@@ -8290,7 +8290,7 @@ li .comment-respond small {
 }
 
 .absolute-footer ul {
-    padding-bottom: 5px;
+    /* padding-bottom: 5px; */
     opacity: .8;
     border-bottom: 1px solid #ddd
 }

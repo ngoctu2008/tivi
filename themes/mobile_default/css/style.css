@@ -1730,6 +1730,6 @@ hr {
 
 #footer .sec_footer {
     padding-top: 10px;
-    padding-bottom: 10px;
+    /* padding-bottom: 10px; */
     background-color: rgb(29, 29, 27);
 }
