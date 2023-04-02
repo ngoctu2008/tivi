@@ -9393,10 +9393,10 @@ header .header-fixed {
     top: 0;
     z-index: 101;
     color: #FFF;
-    background-color: rgb(29, 29, 27);
+    background-color: white;
     text-shadow: 1px 1px 1px rgba(0,0,0,0.7)
 }
 
 main {
-    margin-top: 50px;
+    margin-top: 46px;
 }
