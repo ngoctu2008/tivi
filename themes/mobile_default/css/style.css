@@ -1087,11 +1087,6 @@ header.header-up {
 /* Footer */
 
 #footer {
-    position: fixed;
-    bottom: 0;
-    left: 0;
-    right: 0;
-    z-index: 10;
     width: 100%;
     min-height: 40px;
     -webkit-transition: top 0.08s ease-in-out;
@@ -1100,28 +1095,6 @@ header.header-up {
 
 #footer.footer-down {
     bottom: -42px;
-}
-
-.footer {
-    height: 39px;
-    width: 100%;
-    background: #205fa0;
-    background-image: linear-gradient(to bottom,
-            rgba(0, 0, 0, 0) 0,
-            rgba(0, 0, 0, 0.2) 100%);
-    border-top: 1px solid #205fa0;
-    font-size: 0.9em;
-    color: #333;
-}
-
-.footer a {
-    color: #333;
-    text-decoration: none;
-}
-
-.footer.display-table > * > * {
-    padding: 0;
-    vertical-align: middle;
 }
 
 /* theme-change */
@@ -1216,8 +1189,8 @@ header.header-up {
 /* Block Company info */
 
 .company_info {
-    font-size: 12px;
-    margin: 10px !important;
+    font-size: 13px;
+    margin: 12px !important;
 }
 
 .company_info .company_name {
@@ -1234,9 +1207,16 @@ header.header-up {
     display: table-cell;
     vertical-align: middle;
 }
+.company_info li > span, .company_info li > a {
+    color: #a4a4a4;
+}
+
 
 .company_info li.company_name > span {
     display: inline;
+    font-size: 1.2em;
+    font-weight: bold;
+    color: white;
 }
 
 .company_info li em {
@@ -1244,6 +1224,7 @@ header.header-up {
     width: 26px;
     text-align: center;
     padding-right: 10px;
+    color: #ff5252;
 }
 
 .company-map {
@@ -1745,4 +1726,10 @@ hr {
     height: 40px;
     border: 0;
     font-size: 24px;
+}
+
+#footer .sec_footer {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: rgb(29, 29, 27);
 }

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<plan>
+  <id>4</id>
+  <lang></lang>
+  <title>Slide mobile</title>
+  <form>random_one</form>
+  <width>412</width>
+  <height>150</height>
+  <banners>
+    <banners_item>
+      <id>3</id>
+      <title>Banner mobile</title>
+      <clid>1</clid>
+      <file_name>banner-mobile.png</file_name>
+      <imageforswf></imageforswf>
+      <file_ext>png</file_ext>
+      <file_mime>image/png</file_mime>
+      <file_width>800</file_width>
+      <file_height>314</file_height>
+      <file_alt></file_alt>
+      <file_click></file_click>
+      <target>_blank</target>
+      <bannerhtml></bannerhtml>
+      <publ_time>1680430767</publ_time>
+      <exp_time>0</exp_time>
+    </banners_item>
+  </banners>
+</plan>

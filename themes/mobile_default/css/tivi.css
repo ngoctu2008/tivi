@@ -8229,7 +8229,7 @@ li .comment-respond small {
 }
 
 .footer {
-    padding: 30px 0 0
+    padding: 5px 0 0
 }
 
 .footer-1 {
@@ -8249,19 +8249,31 @@ li .comment-respond small {
 }
 
 .absolute-footer,html {
-    background-color: #5b5b5b
+    background-color: #000000
 }
 
 .footer ul {
     margin: 0
 }
 
-.absolute-footer {
-    color: rgba(0,0,0,0.5);
-    padding: 10px 0 15px;
-    font-size: .9em
+#footer .dask {
+    /* background-color: rgb(29, 29, 27); */
 }
 
+.fixed-footer {
+    color: rgba(0,0,0,0.5);
+    padding: 10px 0 15px;
+    font-size: .9em;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    z-index: 10;
+}
+.absolute-footer {
+    padding: 5px 0 0;
+    font-size: .9em;
+}
 .absolute-footer.dark {
     color: rgba(255,255,255,0.5)
 }

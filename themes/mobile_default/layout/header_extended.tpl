@@ -26,6 +26,9 @@
             		</div>
                     <div class="flex-col show-for-medium flex-right">
                         [MENU_SITE]
+                        <div class="tip">
+                            <div id="tip" data-content=""></div>
+                        </div>
                         <ul class="mobile-nav nav nav-right "> </ul>
                     </div>
 
@@ -40,11 +43,9 @@
             </div>
         </div>
     </header>
-    <div class="tip">
-        <div id="tip" data-content=""></div>
-    </div>
+
 
 <main id="main">
-    <div id="content" role="main" class="content-area">
+    <div id="content" role="main" class="content-area" style="padding:20px 0;">
         [SLIDE]
     </div>
