@@ -3,7 +3,7 @@
 </noscript>
 <div id="wrapper">
     <header id="header" class="header has-sticky sticky-jump">
-        <div class="header-wrapper">
+        <div class="header-wrapper header-fixed">
             <div id="masthead" class="header-main hide-for-sticky">
             	<div class="header-inner flex-row container logo-left medium-logo-center" role="navigation">
             		<!-- Logo -->
