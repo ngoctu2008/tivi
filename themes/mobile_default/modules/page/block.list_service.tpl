@@ -1,7 +1,6 @@
 <!-- BEGIN: main -->
 <section class="section sec_service_new white" id="section_682069308">
     <div class="section-content relative">
-        <div class="gap-element" style="display:block; height:auto; padding-top:20px"></div>
         <div class="row" id="row-2128140507">
             <div class="col small-12 large-12">
                 <div class="col-inner text-center">
@@ -35,7 +34,8 @@
                 </div>
             </div>
         </div>
-    </div><!-- .section-content -->
+    </div>
+    <!-- .section-content -->
     <style scope="scope">
         #section_682069308 {
             padding-top: 0px;
