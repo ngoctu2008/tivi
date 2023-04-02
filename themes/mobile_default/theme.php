@@ -114,6 +114,7 @@ function nv_site_theme($contents, $full = true)
     $html_links[] = ['rel' => 'StyleSheet', 'href' => NV_STATIC_URL . 'themes/' . $global_config['module_theme'] . '/css/bootstrap.min.css'];
     $html_links[] = ['rel' => 'StyleSheet', 'href' => NV_STATIC_URL . 'themes/' . $global_config['module_theme'] . '/css/style.css'];
     $html_links[] = ['rel' => 'StyleSheet', 'href' => NV_STATIC_URL . 'themes/' . $global_config['module_theme'] . '/css/tivi.css'];
+    $html_links[] = ['rel' => 'StyleSheet', 'href' => NV_STATIC_URL . 'themes/' . $global_config['module_theme'] . '/css/callnow.css'];
 
     if (defined('NV_IS_ADMIN') and $full) {
         $html_links[] = ['rel' => 'StyleSheet', 'href' => NV_STATIC_URL . 'themes/' . $global_config['module_theme'] . '/css/admin.css'];
