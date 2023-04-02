@@ -40,7 +40,7 @@
 					<li><em class="fa fa-comment-o">&nbsp;</em> {CONTENT.hitscm}</li>
 				</ul>
 			</div>
-			{CONTENT.hometext}
+			<strong style="margin-bottom:5px;"> {CONTENT.hometext}	</strong>
 			<!-- BEGIN: adminlink -->
 			<p class="text-right">
 				{ADMINLINK}

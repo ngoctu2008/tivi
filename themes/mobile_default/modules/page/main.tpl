@@ -78,7 +78,10 @@
     <div class="panel-body">
         <ul class="nv-list-item">
             <!-- BEGIN: loop -->
-            <li><em class="fa fa-angle-double-right">&nbsp;</em><h3><a title="{OTHER.title}" href="{OTHER.link}">{OTHER.title}</a></h3></li>
+            <li>
+                <em class="fa fa-angle-double-right">&nbsp;</em>
+                <a title="{OTHER.title}" href="{OTHER.link}">{OTHER.title}</a>
+            </li>
             <!-- END: loop -->
        </ul>
     </div>
