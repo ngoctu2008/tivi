@@ -20,7 +20,7 @@
                                         </div>
                                         <div class="box-text text-center">
                                             <div class="box-text-inner blog-post-inner">
-                                                <h5 class="post-title is-large ">{ROW.title_clean60}</h5>
+                                                <h5 class="post-title is-large bg-title">{ROW.title_clean60}</h5>
                                                 <div class="is-divider"></div>
                                                 <!-- <p class="from_the_blog_excerpt ">{ROW.description}</p> -->
                                             </div>

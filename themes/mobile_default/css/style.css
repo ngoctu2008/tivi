@@ -203,6 +203,10 @@
     background-color: #e6e6fa;
 }
 
+.bg-title {
+    background-color: #00000080;
+}
+
 /*Load_Bar*/
 
 .load-bar {
